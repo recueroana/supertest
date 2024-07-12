@@ -1,0 +1,13 @@
+## Projeto SUPER TEST com JEST ##
+
+- Precisa instalar o Node...
+- Precisa instalar o Jest
+
+- No arquivo package.json na parte de scrits de debug colocar  "test": "jest".
+
+## Comando para rodar todos os testes ##
+- npm test
+
+## Comando para rodar um teste específico ##
+- jest --testNamePattern="titulo do cenario desejado"
+
