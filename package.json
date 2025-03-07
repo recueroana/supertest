@@ -4,7 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "jest"
+    "test": "jest",
+    "test:single": "jest --testNamePattern=\"Criar uma reserva em booking\""
   },
   "keywords": [],
   "author": "",

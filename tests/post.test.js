@@ -3,7 +3,7 @@ const ApiUrl = "https://restful-booker.herokuapp.com";
 
 describe('("POST reservas', () => {
     
-    it.only("Criar uma reserva em booking", () => {
+    it("Criar uma reserva em booking", () => {
        const newBooking = {
         firstname : "Maria",
         lastname : "Brown",
